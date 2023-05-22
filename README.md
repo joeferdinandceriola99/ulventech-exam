@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 Ensure that you have the following installed on your local machine:
 
 ```bash
-Node.js >=12.0.0
-npm >=6.0.0
+Node.js >=16.0.0
+npm >=9.0.0
 ```
 
 ### Installation to local machine
